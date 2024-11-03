@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖖, I'm Santhush Chandrasekara</h1>
+<h1 align="center">Hi 🖖, I'm Santhush Akalanka</h1>
 <h3 align="center">Developer by day, debugger by night</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/846/561/png-clipart-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-thumbnail.png">
 -->
