@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🖖, I'm Santhush Akalanka</h1>
+<h1 align="center">Hi 🖖, I'm Santhush Chandrasekara</h1>
 <h3 align="center">Associate Software Engineer</h3>
 <!--<img align="right" alt="Coding" width="400" src="https://e7.pngegg.com/pngimages/846/561/png-clipart-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-thumbnail.png">
 -->
@@ -7,13 +7,13 @@
 
 - 🎓 Graduated with **a BSc in Software Engineering**
 
-- 🌱 Currently exploring and expanding my knowledge in **Java, Spring Boot and React**
+- 🌱 Currently deepening my expertise in **Java, Spring Boot and React**
 
-- 💪 A **collaborative team player and an effective leader**
+- 💪 A **collaborative team player and an proactive leader**
 
 - ⛽ Fueled by **critical thinking, fresh ideas, and the occasional energy drink**
 
-- 🧑‍💻 A **fresh graduate and full-stack developer in training**
+- 🧑‍💻 A **fresh graduate and aspiring full-stack developer**, passionate about continuous learning and building impactful solutions
 
 - 📫 Reach me personally via **santhushakalanka2000@gmail.com**
 
